@@ -30,9 +30,9 @@ Work is when the progress speaks for itself. Intersect gathers each team members
 
 [comment]: <> (Options! Choose whichever)
 
-Get Started
-Let's collaborate
-See how it works [comment]: <> (Works well if you have a 30-second video)
+- Get Started
+- Let's collaborate
+- See how it works [comment]: <> (Works well if you have a 30-second video)
 
 ### FEATURES PAGE
 
@@ -68,4 +68,4 @@ Integration is connecting third-party apps to Intersect. Some examples of these 
 
 ### ABOUT
 
-#### 
+Intersect organizes cluttered human resource, productivity, and collaboration tools. This app is built by developers who have an agile mindset but did not have an agile toolset (yet!). 
