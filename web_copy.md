@@ -51,6 +51,9 @@ Intersect's built-in features are the most fundamental tools that businesses nee
 - Search tool
     - A handy search box lets you find tickets, work items, attachments, and links. This frees up your mind from having to remember where everything is.
 
+- Event Logger
+    - An event logger gives you a quick overview of your team's progress. You can immediately see the newest push on Github, the latest ticket movements on Jira, or any update from any tool that you integrate.
+     
 #### What is integration?
 
 Integration is connecting third-party apps to Intersect. Some examples of these apps are Jira, Github, and Google Apps. By bringing all tools in one tool kit, you can streamline your workflow.
