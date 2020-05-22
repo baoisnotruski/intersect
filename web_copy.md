@@ -1,9 +1,6 @@
-## Intersect: A web app that integrates all your work tools.
+>>> Homepage
 
-
-[comment]: <> (HOMEPAGE)
-
-###### Hero Banners
+>>>> For the Hero Banners
 
 #### Productivity meets simplicity
 Intersect brings all your work tools in one web app. Access HR and productivity tools all in one place.
@@ -14,7 +11,10 @@ Skip all the setup. Save time for more work or more coffee.
 #### Your office in mobile
 We're redefining what mobile work means. Our mobile app gives you the power of multiple desktop tabs in one interface.
 
-[comment]: <> (Features Overview --> Benefits Overview)
+
+>>>> For the section about what users can achieve
+
+### Collaboration Unified and Redefined
 
 #### Bring Flow to Your Workflow
 Flow is when work happens smoothly. Intersect saves you from needing to bounce from you tab to another by bring all you need in one interface.
@@ -25,16 +25,32 @@ Collaboration is when everyone is aligned to a goal. Intersect keeps you updated
 #### Let the work do the reporting
 Work is when the progress speaks for itself. Intersect gathers each team members activity on apps like Jira and Github.
 
-
-###### CTA
-
-[comment]: <> (Options! Choose whichever)
+>>>> CTA
 
 - Get Started
 - Let's collaborate
 - See how it works [comment]: <> (Works well if you have a 30-second video)
 
-### FEATURES PAGE
+
+
+>>>> For the features section
+
+### Built-in Tools
+Location, payroll, and human resource tools right at your homescreen. 
+`Try out built-in awesomeness`
+
+### Integrated Tools
+All your project management and version control software all in one place.
+`Connect your favorite productivity apps`
+
+### Customizable Integration
+Tools that are not on our list but we can add.
+`Request for integration`
+
+
+
+
+>>> Feature Page
 
 #### What are built-in features?
 
@@ -54,6 +70,8 @@ Intersect's built-in features are the most fundamental tools that businesses nee
 - Event Logger
     - An event logger gives you a quick overview of your team's progress. You can immediately see the newest push on Github, the latest ticket movements on Jira, or any update from any tool that you integrate.
      
+>>> Integration Page
+
 #### What is integration?
 
 Integration is connecting third-party apps to Intersect. Some examples of these apps are Jira, Github, and Google Apps. By bringing all tools in one tool kit, you can streamline your workflow.
