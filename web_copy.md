@@ -84,8 +84,10 @@ Integration is connecting third-party apps to Intersect. Some examples of these 
 - Google Apps
 - Wikis
 - Facebook Page
+  
+Connect across teams and timezones
 
-[comment]: <> ( See https://www.flowdock.com/help/integrations)
+Integrate your project management, task notes, version control, and other tools into one platform. Intersect brings all the moving parts of your organization together. 
 
 ### ABOUT
 
