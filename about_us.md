@@ -1,6 +1,6 @@
 ### Who We Are 
 
-We are a group of software engineers, quality analysts, content specialists, project managers, and marketers. We figured how to work as a team a long time ago. But teamwork outside of the office and across timezones remained challenging for us. 
+We are a group of software engineers, quality analysts, content specialists, project managers, and marketing strategists. We figured how to work as a team a long time ago. But teamwork outside of the office and across timezones remained challenging for us. 
 
 ### What We Do
 
