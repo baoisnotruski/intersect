@@ -61,7 +61,30 @@ Budget projection: Compare progress with time spent. Our budget projection tool 
 
 
 ### Original
- What is integration? Integration is connecting third-party apps to Intersect. Some examples of these apps are Jira, Github, and Google Apps.
+ What is integration? Integration is connecting third-party apps to Intersect. Some examples of these apps are Jira, Github, and Google Apps. By bringing all tools in one tool kit, you can streamline your workflow.
 
 ### Proposed revision
-Bring your productivity tools in one app. 
+Get all the updates from all your tools in one place. Connect Jira, Github, GoogleApps, and more to your Intersect dashboard. By bringing all tools in one tool kit, you can streamline your workflow.
+
+
+### Original
+What We Do: We do creative things. We put creativity in our code, on our web pages, and in the way we connect with the world. To maximize creativity, we put effort to maximize freedom.
+
+We believe that teamwork can happen whenever and wherever. We also believe that setting up the workplace should not take as much effort as the work itself.
+
+
+### Proposed revision
+What We Do: We do creative things. We put creativity in our code, on our web pages, and in the way we connect with the world. To maximize creativity, we put effort to maximize freedom.
+
+We believe that teamwork can happen whenever and wherever. We built Intersect with that belief in mind. By creating a tool that maximizes productitivy, we create more room for our team members to be free to immerse what they love -- whether these are personal projects or learning spaces.
+
+
+
+
+
+
+
+
+### Original
+
+The Platform: We built Intersect to become more efficient. Our goal is to provide essential built-in productivity tools -- the most basic things that we all need to work as a team.
